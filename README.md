@@ -1,12 +1,18 @@
 # Hola, soy Fabio Arredondo 👋
 
-Desarrollador de software de **Santa Cruz, Bolivia** y estudiante de la **Universidad Autónoma Gabriel René Moreno (UAGRM)**.
+Desarrollador de software de **Santa Cruz, Bolivia**, egresado de **Ingeniería Informática** de la **Universidad Autónoma Gabriel René Moreno (UAGRM)**.
 
-Me gusta construir sistemas completos: desde la base de datos y la API hasta la app web o móvil y su despliegue en la nube. En este perfil están los proyectos que hice durante la carrera, cada uno con su README para instalarlo y probarlo.
+Me gusta construir sistemas completos: desde la base de datos y la API hasta la app web o móvil y su despliegue en la nube. En este perfil están mis proyectos, la mayoría hechos durante la carrera, cada uno con su README para instalarlo y probarlo.
 
+- 🏥 Actualmente desarrollo **[DM.Dental](https://github.com/Fabio0406/DM.Dental)**, el sistema de inventario de insumos para el consultorio odontológico del C.S. Integral Municipal DM-5 (Santa Cruz), hecho según sus requisitos y su flujo de trabajo. Está en proceso de aprobación.
 - 🔭 Trabajo con **backend** (Node.js, NestJS, Spring Boot), **frontend** (React, Angular) y **apps móviles** (Flutter).
-- ☁️ Despliego con **Docker**, **Terraform** y **AWS**, con CI/CD en **GitHub Actions**.
+- ☁️ Despliego con **Docker**, **Terraform** y **AWS**, con CI/CD en **GitHub Actions** y prácticas **DevSecOps**.
 - 🤖 También hice proyectos con **IA**: generación de imágenes con Replicate y clasificación de imágenes con TensorFlow.
+
+## 🎓 Formación
+
+- **Ingeniería Informática** — Universidad Autónoma Gabriel René Moreno (UAGRM). Egresado, título en trámite.
+- **Diplomado en DevSecOps Essentials**. Concluido, certificado en trámite.
 
 ## 🛠️ Tecnologías
 
@@ -58,6 +64,7 @@ Me gusta construir sistemas completos: desde la base de datos y la API hasta la 
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
+| [DM.Dental](https://github.com/Fabio0406/DM.Dental) 🏥 | **Proyecto para un cliente real**, en proceso de aprobación: inventario de insumos del consultorio odontológico del C.S. Integral Municipal DM-5. Kardex valorado, consumo por prestación con descuento FIFO, alertas de stock y vencimiento, y lectura por OCR de los formularios SALMI sin enviar imágenes a internet. | Node.js, Express, PostgreSQL, PaddleOCR (ONNX), Puppeteer, Chart.js, Docker |
 | [Banking Microservices](https://github.com/Fabio0406/Banking-Microservices) | Sistema bancario con 3 microservicios que procesan transferencias de forma atómica, desplegado en AWS con Terraform y CI/CD. | NestJS, NATS, PostgreSQL, Docker, Terraform, AWS ECS |
 | [Branding ERP](https://github.com/Fabio0406/Branding-ERP-WEB) | ERP para agencias de branding con web, servidor de notificaciones y app móvil ([servidor](https://github.com/Fabio0406/Branding-ERP-Graphql-Server) · [app](https://github.com/Fabio0406/Branding-ERP-Mobile)). | Spring Boot, Angular, GraphQL, Flutter, Firebase |
 | [Render AI](https://github.com/Fabio0406/Render-AI) | Convierte bocetos de casas en renders realistas con IA, estima el costo de construcción y cobra suscripciones con QR. | Node.js, MongoDB, Replicate, PagoFácil |
