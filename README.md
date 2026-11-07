@@ -35,6 +35,7 @@ Me gusta construir sistemas completos: desde la base de datos y la API hasta la 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 **Frontend y móvil**
 
@@ -65,6 +66,7 @@ Me gusta construir sistemas completos: desde la base de datos y la API hasta la 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [DM.Dental](https://github.com/Fabio0406/DM.Dental) 🏥 | **Proyecto para un cliente real**, en proceso de aprobación: inventario de insumos del consultorio odontológico del C.S. Integral Municipal DM-5. Kardex valorado, consumo por prestación con descuento FIFO, alertas de stock y vencimiento, y lectura por OCR de los formularios SALMI sin enviar imágenes a internet. | Node.js, Express, PostgreSQL, PaddleOCR (ONNX), Puppeteer, Chart.js, Docker |
+| [Dolarito](https://github.com/Fabio0406/DolaritoApp) 💵 | App móvil y servidor que siguen el precio del dólar en Bolivia: oficial del BCB, 11 bancos y plataformas digitales (Binance, Bybit, OKX, Bitget, Airtm, Wallbit…). Calcula la mejor compra y venta, guarda historial y, si el servidor no responde, consulta directo desde el teléfono ([servidor y web](https://github.com/Fabio0406/Dolarito_WEB)). | Flutter, Riverpod, Node.js, Express, Playwright |
 | [Banking Microservices](https://github.com/Fabio0406/Banking-Microservices) | Sistema bancario con 3 microservicios que procesan transferencias de forma atómica, desplegado en AWS con Terraform y CI/CD. | NestJS, NATS, PostgreSQL, Docker, Terraform, AWS ECS |
 | [Branding ERP](https://github.com/Fabio0406/Branding-ERP-WEB) | ERP para agencias de branding con web, servidor de notificaciones y app móvil ([servidor](https://github.com/Fabio0406/Branding-ERP-Graphql-Server) · [app](https://github.com/Fabio0406/Branding-ERP-Mobile)). | Spring Boot, Angular, GraphQL, Flutter, Firebase |
 | [Render AI](https://github.com/Fabio0406/Render-AI) | Convierte bocetos de casas en renders realistas con IA, estima el costo de construcción y cobra suscripciones con QR. | Node.js, MongoDB, Replicate, PagoFácil |
